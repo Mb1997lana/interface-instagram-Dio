@@ -1,5 +1,5 @@
-# Olá desenvolvedor!
+# Olá a todos! Espero que estejam bem.
 
-Passando para registrar mais um projetinho incrível e muito prazeroso de ser feito, que é a interface inicial do Instagram.
-##
-Essa é a versão 1.0 pois pretendo brincar um pouco mais com esse código. Irei testar outras cores e estilos para ver o que fica melhor.
+Passando aqui para deixar registrado mais um projeto incrível e muito prazeroso de se desenvolver, que é a interface inicial do Instagram. Aquela da tela de login.
+
+Essa é a versão final. Pude estilizar mais e ir um pouco além do que foi ensinado no curso, claro que tive que pesquisar um pouco antes mas garanto que o resultado ficou excelente e totalmente responsivo. Espero que acompanhem e que o projeto possa agradar vocês tanto no código, quanto visualmente pronto.
